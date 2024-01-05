@@ -4,12 +4,11 @@
 
 Testing or Running app instructions:
 recommended:
-- on any android device
-  {
-  Download and run the apk file named 'Witch_Storev0.2' 
+On any android device
+{Download and run the apk file named 'Witch_Storev0.2' 
   it will likely give multiple warnings and also possibly an error message however the app is still safe to install just isn't verified ignore these and run the app, press ok on the error messages and the app will be installed on the device.
-  there is much functionality not yet implemented but this will alow testing of the latest build version. 
-  }
+  there is much functionality not yet implemented but this will alow testing of the latest build version.}
+  
 if using the unity editor
 {
 - Ensure that the 2022.3.12f1 version of the editor is installed with android packages.
