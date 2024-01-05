@@ -2,12 +2,13 @@
 
 # WitchStoreGame
 
-Testing or Running app instructions:
-recommended:
-On any android device
-{Download and run the apk file named 'Witch_Storev0.2' 
-  it will likely give multiple warnings and also possibly an error message however the app is still safe to install just isn't verified ignore these and run the app, press ok on the error messages and the app will be installed on the device.
-  there is much functionality not yet implemented but this will alow testing of the latest build version.}
+# Testing or Running app instructions:
+On any android device (recommended)
+{
+Download and run the apk file named 'Witch_Storev0.2'
+it will likely give multiple warnings and also possibly an error message however the app is still safe to install just isn't verified ignore these and run the app, press ok on the error messages and the app will be installed on the device.
+There is much functionality not yet implemented but this will alow testing of the latest build version.
+}
   
 if using the unity editor
 {
